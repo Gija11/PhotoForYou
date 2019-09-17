@@ -1,0 +1,17 @@
+#carouselExampleIndicators .carousel-inner .carousel-item{
+	height:auto;
+	max-height:700px;
+}
+
+#logo img{
+	width:200px;
+	padding-top:100px;
+	padding-bottom:50px;
+}
+.jumbotron-fluid{
+	padding-left:30px;
+}
+
+.jumbotron-fluid h3{
+	font-size:20px;
+}
